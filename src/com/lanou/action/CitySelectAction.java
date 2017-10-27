@@ -21,6 +21,8 @@ public class CitySelectAction extends ActionSupport {
     //用来存储所有大区的集合
     private List<Server> servers;
 
+    //添加登录注册功能
+
     public CitySelectAction() {
         //添加假数据,正常情况下数据
         areaList = new ArrayList<>();
